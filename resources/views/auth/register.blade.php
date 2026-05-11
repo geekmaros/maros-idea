@@ -12,7 +12,7 @@
                 <button type="submit" class="btn mt-2 h-10  w-full">Create Account</button>
             </form>
       <div class="text-center mt-5">
-          <p class="text-foreground">You  have an account? <a class="text-primary" href="/register">Login Here</a></p>
+          <p class="text-foreground">You  have an account? <a class="text-primary" href="/login">Login Here</a></p>
       </div>
   </x-form>
 
